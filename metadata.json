@@ -1,0 +1,8 @@
+{
+  "name": "Sarfe Consulting",
+  "description": "Professional accounting and financial consulting services website.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
